@@ -1,5 +1,3 @@
-# projek_laravel
-Projek Laravel
 
 # Cara menjalankan projek
 
